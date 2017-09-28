@@ -1,0 +1,5 @@
+en:
+  site_settings:
+    algolia_instantsearch_application_id: "Algolia Application ID"
+    algolia_instantsearch_search_key: "Algolia Search API Key (NOT ADMIN KEY!)"
+    algolia_instantsearch_index_name: "Algolia Index Name"

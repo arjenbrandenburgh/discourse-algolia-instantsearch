@@ -1,0 +1,11 @@
+plugins:
+  algolia_instantsearch_application_id:
+    default: "latency"
+    client: true
+  algolia_instantsearch_search_key:
+    default: "6be0576ff61c053d5f9a3225e2a90f76"
+    client: true
+  algolia_instantsearch_index_name:
+    default: "instant_search"
+    client: true
+
