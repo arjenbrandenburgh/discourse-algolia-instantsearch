@@ -1,5 +1,5 @@
 # name: algolia-instantsearch-plugin
-# about: Discourse plugin that leverages the Angolia instant search libraries
+# about: Discourse plugin that leverages the Algolia instant search libraries
 # version: 1.0
 # author: Arjen Brandenburgh
 
